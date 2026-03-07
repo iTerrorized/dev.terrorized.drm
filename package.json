@@ -1,0 +1,19 @@
+{
+  "name": "dev.terrorized.drm",
+  "displayName": "Terrorized DRM",
+  "version": "1.0.0",
+  "description": "DRM licensing client for Terrorized products",
+  "url": "https://github.com/iTerrorized/dev.terrorized.drm",
+  "unity": "2022.3",
+  "type": "tool",
+  "keywords": [
+    "Terrorized",
+    "DRM",
+    "License"
+  ],
+  "author": {
+    "name": "Terrorized",
+    "email": "xterrorized@outlook.com",
+    "url": "https://terrorized.dev"
+  }
+}
