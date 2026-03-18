@@ -1,7 +1,7 @@
 {
   "name": "dev.terrorized.drm",
   "displayName": "Terrorized DRM",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "DRM licensing client for Terrorized products",
   "url": "https://github.com/iTerrorized/dev.terrorized.drm",
   "unity": "2022.3",
